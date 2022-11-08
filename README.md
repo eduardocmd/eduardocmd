@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <h3 align="center">¡Holaa 👋! Soy Eduardo 👨🏻‍💻</h3>
+   <h3 align="center">Holaa 👋 Soy Eduardo 👨🏻‍💻</h3>
 </p>
 <p align="center">Soy <strong>Desarrollador Web Junior</strong>.<br /></p>
 <!--
