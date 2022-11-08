@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<p align="center" width="300">
+   <h3 align="center">¡Holaa 👋! Soy Eduardo 👨🏻‍💻</h3>
+</p>
+<p align="center">Soy <strong>Desarrollador Web Junior</strong>.<br /></p>
 <!--
 **eduardocoello16/eduardocoello16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
